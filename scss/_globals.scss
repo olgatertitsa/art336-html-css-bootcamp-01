@@ -17,29 +17,29 @@ Globals
 
 
 @mixin body-font-regular {
-    font-family: 'Open Sans', helvetica, verdana, sans-serif;
+    font-family: 'Cabin', helvetica, verdana, sans-serif;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 @mixin body-font-italic {
-    font-family: 'Open Sans', helvetica, verdana, sans-serif;
+    font-family: 'Cabin', helvetica, verdana, sans-serif;
     font-style: italic;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 @mixin body-font-bold {
-    font-family: 'Open Sans', helvetica, verdana, sans-serif;
+    font-family: 'Cabin', helvetica, verdana, sans-serif;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 @mixin headline-font {
-    font-family: 'PT Serif Caption', georgia, serif;
+    font-family: 'Bitter', georgia, serif;
     font-style: normal;
 }
 
 // Site Variables
 $color: #242424;
 $background-color: #f9f9f9;
-$link-color: #436cf3;
+$link-color: #ff3181;
